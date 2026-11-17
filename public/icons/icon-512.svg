@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#ea580c"/>
+  <path d="M96 156h320l-28 112H124L96 156z" fill="#fff" opacity="0.95"/>
+  <rect x="120" y="280" width="272" height="136" rx="22" fill="#18181b"/>
+  <text x="256" y="370" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#fb923c" text-anchor="middle">TIGRE</text>
+  <circle cx="170" cy="116" r="24" fill="#18181b"/>
+  <circle cx="342" cy="116" r="24" fill="#18181b"/>
+</svg>
